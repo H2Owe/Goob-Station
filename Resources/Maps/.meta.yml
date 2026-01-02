@@ -68177,7 +68177,7 @@ entities:
     - type: Transform
       pos: 45.489563,-8.468819
       parent: 5350
-- proto: ClothingMaskGasSecurity
+- proto: ClothingRespiratorSecurity
   entities:
   - uid: 10442
     components:

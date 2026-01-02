@@ -38682,7 +38682,7 @@ entities:
     - type: Transform
       pos: 81.53254,11.610725
       parent: 2
-- proto: ClothingMaskGasSecurity
+- proto: ClothingRespiratorSecurity
   entities:
   - uid: 6062
     components:

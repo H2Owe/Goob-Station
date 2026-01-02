@@ -64623,7 +64623,7 @@ entities:
     - type: Transform
       pos: 45.507942,-27.364006
       parent: 2
-- proto: ClothingMaskGasSecurity
+- proto: ClothingRespiratorSecurity
   entities:
   - uid: 17794
     components:

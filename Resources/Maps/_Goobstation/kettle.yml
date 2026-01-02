@@ -66637,7 +66637,7 @@ entities:
     - type: Transform
       pos: 3.2607973,35.746716
       parent: 2
-- proto: ClothingMaskGasSecurity
+- proto: ClothingRespiratorSecurity
   entities:
   - uid: 10066
     components:

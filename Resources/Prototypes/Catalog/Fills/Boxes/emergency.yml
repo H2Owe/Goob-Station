@@ -143,7 +143,7 @@
   components:
   - type: StorageFill
     contents:
-    - id: ClothingMaskGasSecurity
+    - id: ClothingRespiratorSecurity
     - id: EmergencyOxygenTankFilled
     - id: EmergencyMedipen
     - id: Flare
@@ -161,7 +161,7 @@
   components:
   - type: StorageFill
     contents:
-    - id: ClothingMaskGasSecurity
+    - id: ClothingRespiratorSecurity
     - id: EmergencyNitrogenTankFilled
     - id: EmergencyMedipen
     - id: Flare

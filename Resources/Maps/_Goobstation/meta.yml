@@ -62055,7 +62055,7 @@ entities:
     - type: Transform
       pos: -33.49276,15.494001
       parent: 2
-- proto: ClothingMaskGasSecurity
+- proto: ClothingRespiratorSecurity
   entities:
   - uid: 9722
     components:

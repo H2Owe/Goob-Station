@@ -50,7 +50,7 @@
   components:
   - type: StorageFill
     contents:
-    - id: ClothingMaskGasSecurity
+    - id: ClothingRespiratorSecurity
     - id: EmergencyWaterVaporTankFilled
     - id: EmergencyMedipen
     - id: Flare

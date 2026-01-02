@@ -497,7 +497,7 @@
       - id: Matchbox
       - id: ClothingEyesBlindfold
       - id: ClothingMaskMuzzle
-      - id: ClothingMaskGasSecurity
+      - id: ClothingRespiratorSecurity
       - id: ShardGlass
         weight: 2
       - id: Syringe

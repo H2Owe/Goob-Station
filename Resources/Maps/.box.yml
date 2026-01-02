@@ -73099,7 +73099,7 @@ entities:
     - type: Transform
       pos: -44.458595,14.399037
       parent: 8364
-- proto: ClothingMaskGasSecurity
+- proto: ClothingRespiratorSecurity
   entities:
   - uid: 8642
     components:

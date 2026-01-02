@@ -211,5 +211,5 @@
   job: HeadOfSecurity
   hasMindShield: true
   equipment:
-    mask: ClothingMaskGasSecurity
+    mask: ClothingRespiratorSecurity
     neck: ClothingNeckCloakHos

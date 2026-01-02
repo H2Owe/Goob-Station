@@ -184,7 +184,7 @@
     back:
     - Flash
     - MagazinePistol
-    - ClothingMaskGasSecurity # Goobstation
+    - ClothingRespiratorSecurity # Goobstation
 
 - type: chameleonOutfit
   id: WardenChameleonOutfit
@@ -192,7 +192,7 @@
   hasMindShield: true
   equipment:
     head: ClothingHeadHatWarden
-    mask: ClothingMaskGasSecurity
+    mask: ClothingRespiratorSecurity
     outerClothing: ClothingOuterCoatWarden
     jumpsuit: ClothingUniformJumpsuitWarden
     neck: Dinkystar

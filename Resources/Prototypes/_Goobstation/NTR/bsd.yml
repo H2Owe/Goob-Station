@@ -38,7 +38,7 @@
     back: ClothingBackpackBlueshield
   storage:
     back:
-    - ClothingMaskGasSecurity
+    - ClothingRespiratorSecurity
     - Flash
     - BluespaceLifelineImplanter
     - DefibrillatorCompact # wow personal doctor for NTR

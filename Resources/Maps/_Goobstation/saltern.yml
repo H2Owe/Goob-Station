@@ -28294,7 +28294,7 @@ entities:
     - type: Transform
       pos: 29.33713,-19.311977
       parent: 2
-- proto: ClothingMaskGasSecurity
+- proto: ClothingRespiratorSecurity
   entities:
   - uid: 456
     components:

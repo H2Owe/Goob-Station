@@ -109,7 +109,7 @@
     - Flash
     - ForensicPad
     - ForensicScanner
-    - ClothingMaskGasSecurity # Goobstation
+    - ClothingRespiratorSecurity # Goobstation
 
 - type: chameleonOutfit
   id: DetectiveChameleonOutfit
@@ -117,6 +117,6 @@
   hasMindShield: true
   equipment:
     head: ClothingHeadHatFedoraBrown
-    mask: ClothingMaskGasSecurity
+    mask: ClothingRespiratorSecurity
     neck: ClothingNeckTieDet
     gloves: ClothingHandsGlovesForensic

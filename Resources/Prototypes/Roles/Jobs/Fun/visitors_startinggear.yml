@@ -141,7 +141,7 @@
     belt: ClothingBeltSecurityFilled
     back: ClothingBackpackSatchelSecurity
     ears: ClothingHeadsetAltSecurity
-    mask: ClothingMaskGasSecurity # Goobstation
+    mask: ClothingRespiratorSecurity # Goobstation
     eyes: ClothingEyesGlassesSecurity
     outerClothing: ClothingOuterCoatHoSTrench
     #pocket1: WeaponDisabler #Goobstation (Disablers in belts)
@@ -161,7 +161,7 @@
     belt: ClothingBeltSecurityFilled
     back: ClothingBackpackSatchelLeather
     ears: ClothingHeadsetAltSecurity
-    mask: ClothingMaskGasSecurity # Goobstation
+    mask: ClothingRespiratorSecurity # Goobstation
     eyes: ClothingEyesGlassesSecurity
     #pocket1: WeaponDisabler #Goobstation (Disablers in belts)
     pocket2: MagazinePistolSubMachineGunTopMounted
@@ -236,7 +236,7 @@
     belt: ClothingBeltSecurityFilled
     back: ClothingBackpackSecurity
     ears: ClothingHeadsetAltSecurityRegular # Goobstation
-    mask: ClothingMaskGasSecurity # Goobstation
+    mask: ClothingRespiratorSecurity # Goobstation
     eyes: ClothingEyesGlassesSecurity
     outerClothing: ClothingOuterArmorBasic
     pocket1: WeaponPistolMk58
@@ -255,7 +255,7 @@
     belt: ClothingBeltSecurityFilled
     back: ClothingBackpackSatchelSecurity
     ears: ClothingHeadsetAltSecurityRegular # Goobstation
-    mask: ClothingMaskGasSecurity # Goobstation
+    mask: ClothingRespiratorSecurity # Goobstation
     eyes: ClothingEyesGlassesSecurity
     outerClothing: ClothingOuterArmorBasicSlim
     pocket1: WeaponPistolMk58
@@ -273,7 +273,7 @@
     belt: ClothingBeltSecurityWebbingFilled
     back: ClothingBackpackSecurity
     ears: ClothingHeadsetAltSecurityRegular # Goobstation
-    mask: ClothingMaskGasSecurity # Goobstation
+    mask: ClothingRespiratorSecurity # Goobstation
     eyes: ClothingEyesGlassesSecurity
     outerClothing: ClothingOuterArmorBasic
     pocket1: WeaponPistolMk58
@@ -292,7 +292,7 @@
     belt: ClothingBeltSecurityFilled
     back: ClothingBackpackSatchelSecurity
     ears: ClothingHeadsetAltSecurityRegular # Goobstation
-    mask: ClothingMaskGasSecurity # Goobstation
+    mask: ClothingRespiratorSecurity # Goobstation
     eyes: ClothingEyesGlassesSecurity
     outerClothing: ClothingOuterArmorBasicSlim
     pocket1: WeaponPistolMk58
@@ -311,7 +311,7 @@
     belt: ClothingBeltHolsterFilled
     back: ClothingBackpackSecurity
     ears: ClothingHeadsetAltSecurityRegular # Goobstation
-    mask: ClothingMaskGasSecurity # Goobstation
+    mask: ClothingRespiratorSecurity # Goobstation
     eyes: ClothingEyesGlassesSecurity
     outerClothing: ClothingOuterCoatDetectiveLoadout
     pocket1: ForensicScanner
@@ -330,7 +330,7 @@
     belt: ClothingBeltHolsterFilled
     back: ClothingBackpackSatchelSecurity
     ears: ClothingHeadsetAltSecurityRegular # Goobstation
-    mask: ClothingMaskGasSecurity # Goobstation
+    mask: ClothingRespiratorSecurity # Goobstation
     eyes: ClothingEyesGlassesSecurity
     outerClothing: ClothingOuterVestDetective
     pocket1: ForensicScanner
@@ -350,7 +350,7 @@
     belt: ClothingBeltSecurityWebbingFilled
     back: ClothingBackpackSecurity
     ears: ClothingHeadsetAltSecurityRegular # Goobstation
-    mask: ClothingMaskGasSecurity # Goobstation
+    mask: ClothingRespiratorSecurity # Goobstation
     eyes: ClothingEyesGlassesSecurity
     outerClothing: ClothingOuterCoatWarden
     pocket1: WeaponDisabler
@@ -370,7 +370,7 @@
     belt: ClothingBeltSecurityFilled
     back: ClothingBackpackSatchelSecurity
     ears: ClothingHeadsetAltSecurityRegular # Goobstation
-    mask: ClothingMaskGasSecurity # Goobstation
+    mask: ClothingRespiratorSecurity # Goobstation
     eyes: ClothingEyesGlassesSecurity
     outerClothing: ClothingOuterWinterWarden
     #pocket1: WeaponDisabler #Goobstation (Disablers in belts)

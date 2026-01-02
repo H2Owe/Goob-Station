@@ -134,6 +134,6 @@
   hasMindShield: true
   equipment:
     head: ClothingHeadHatBeretSecurity
-    mask: ClothingMaskGasSecurity
+    mask: ClothingRespiratorSecurity
     neck: Dinkystar
     gloves: ClothingHandsGlovesColorBlack

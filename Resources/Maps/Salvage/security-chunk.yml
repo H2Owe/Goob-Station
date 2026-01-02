@@ -930,7 +930,7 @@ entities:
     - type: Transform
       pos: 1.5197649,3.5339143
       parent: 1
-- proto: ClothingMaskGasSecurity
+- proto: ClothingRespiratorSecurity
   entities:
   - uid: 173
     components:

@@ -54,6 +54,7 @@
     ClothingEyesGlassesSunglasses: 4 # Goobstation
     ClothingEyesHudSecurity: 2
     ClothingEyesEyepatchHudSecurity: 2
+    ClothingMaskGasSecurity: 3
     ClothingBeltSecurityWebbing: 5
     Zipties: 12
     RiotShield: 2

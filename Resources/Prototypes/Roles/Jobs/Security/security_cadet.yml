@@ -152,7 +152,7 @@
   equipment:
     head: ClothingHeadHelmetBasic
     eyes: ClothingEyesHudSecurity
-    mask: ClothingMaskGasSecurity
+    mask: ClothingRespiratorSecurity
     neck: ClothingNeckScarfStripedRed
     belt: ClothingBeltSecurity
     gloves: ClothingHandsGlovesColorBlack

@@ -14,6 +14,7 @@
 # SPDX-FileCopyrightText: 2025 TheBorzoiMustConsume <197824988+TheBorzoiMustConsume@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2025 fishbait <gnesse@gmail.com>
 # SPDX-FileCopyrightText: 2025 gluesniffler <159397573+gluesniffler@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 jvne <juneialduncan21@gmail.com>
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
@@ -145,3 +146,49 @@
   suffix: Unremoveable
   components:
   - type: Unremoveable
+
+- type: entity
+  parent: [ClothingMaskGas, BaseSecurityContraband]
+  id: ClothingMaskGasSecurity
+  name: security gas mask
+  description: A standard issue Security gas mask.
+  components:
+  - type: Sprite
+    sprite: _Goobstation/Clothing/Mask/secgasmask.rsi
+  - type: Clothing
+    sprite: _Goobstation/Clothing/Mask/secgasmask.rsi
+  - type: AltClothingLayer
+    defaultLayer: mask
+    altLayer: pocket1
+  - type: Armor
+    coverage:
+    - Head
+    modifiers:
+      coefficients:
+        Blunt: 0.9
+        Slash: 0.9
+        Piercing: 0.9
+        Heat: 0.9
+  - type: Tag
+    tags:
+    - HamsterWearable
+    - WhitelistChameleon
+# Goobstation
+  - type: Hailer
+  - type: IngestionBlocker
+    blockSmokeIngestion: true
+    sprite:
+      sprite: _Goobstation/Clothing/Mask/secgasmask.rsi
+      state: pocket
+  - type: DiseaseProtection
+    # same stats as sterile mask
+    incoming:
+      powerModifiers:
+        Aerial: -0.4
+      chanceMultipliers:
+        Aerial: 0.5
+    outgoing:
+      powerModifiers:
+        Aerial: -0.6
+      chanceMultipliers:
+        Aerial: 0.5

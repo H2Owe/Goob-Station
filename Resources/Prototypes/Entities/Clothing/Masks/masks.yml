@@ -226,7 +226,7 @@
     - SecurityBreathMask
   - type: Hailer # Goobstation - Hailer
   - type: IngestionBlocker # Goobstation
-    blockSmokeIngestion: true
+    blockSmokeIngestion: false
 
 - type: entity
   parent: [ClothingMaskGas, BaseSyndicateContraband]
